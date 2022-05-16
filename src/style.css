@@ -1,0 +1,95 @@
+
+
+body {
+    font-family: "Outfit", sans-serif;
+    height: 85vh;
+    background-color: #d5e1ef;
+  }
+  
+
+  .container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    background-color: white;
+    text-align: center;
+    width: 563px;
+    height: 560px;
+    justify-content: center;
+    background-color:#1F2630 ;
+  }
+  /* .container .iteams {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    #242D36
+} */
+  
+.container h2 {
+    margin-top: 60px;
+    padding: 10px;
+    margin-left: 40px;
+    text-align: start;
+    font-size: 30px;
+    color: aliceblue;
+}
+.container p {
+    width: 600px;
+    margin-left: 40px;
+    line-height: 1.8;
+    text-align: start;
+    width: 372px;
+    padding: 10px;
+    color:#CCC;
+}
+.container .iteam {
+    display: inline-block;
+    padding: 30px;
+    margin-right: 20px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+    background-color: #242D36;
+    cursor: pointer;
+    
+}
+.container  img {
+    margin-left: 30px;
+    padding-top: 5px;
+    padding: 15px;
+    text-align: start;
+    align-items: flex-start;
+    background-color: #24303C;
+    border-radius: 50%;
+    height: 20px;
+    
+}
+.container .icon  {
+    height: 20px;
+    cursor: pointer;
+}
+.container .iteam:hover {
+
+    background-color:#7C8898 ;
+}
+
+
+
+.container button {
+    width: 400px    ;
+}
+
+  input[type="radio"] {
+      display: none;
+  }
+
+
+.btn {
+    padding: 20px;
+    color: orange;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer
+}
