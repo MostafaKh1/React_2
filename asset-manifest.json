@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React_2/static/css/main.2b7c91b4.css",
+    "main.js": "/React_2/static/js/main.0a5fd5b3.js",
+    "index.html": "/React_2/index.html",
+    "static/media/icon-star.svg": "/React_2/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.2b7c91b4.css.map": "/React_2/static/css/main.2b7c91b4.css.map",
+    "main.0a5fd5b3.js.map": "/React_2/static/js/main.0a5fd5b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b7c91b4.css",
+    "static/js/main.0a5fd5b3.js"
+  ]
+}
